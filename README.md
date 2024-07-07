@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Devops**
 - 👯 I’m looking to collaborate on **Devops and Cloud Projects**
 - 💬 Ask me about **Devops**
-- 📫 How to reach me: **Kishore.kalaiselvan1@gmail.com**
+- 📫 Feel Free to reach me: **Kishore.kalaiselvan1@gmail.com**
 
 ## 🙋‍♂️ About Me:
 I am Kishore, a final-year engineering student with a strong passion for DevOps. Renowned for my punctuality and ability to excel under pressure, I thrive in collaborative team environments. I am deeply interested in acquiring new technologies and possess a quick learning ability, enabling me to swiftly adapt to industry dynamics. My objective is to leverage my technical skills and enthusiasm for continuous improvement to make impactful contributions, promoting innovation and operational efficiency.
