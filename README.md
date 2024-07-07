@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **Devops And Cloud Projects**
 - 🌱 I’m currently learning **Devops**
 - 👯 I’m looking to collaborate on **Devops and Cloud Projects**
