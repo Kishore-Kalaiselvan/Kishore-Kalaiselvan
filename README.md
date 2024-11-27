@@ -7,7 +7,7 @@
 - 📫 Feel Free to reach me: **Kishore.kalaiselvan1@gmail.com**
 
 ## 🙋‍♂️ About Me:
-I am Kishore, a final-year engineering student with a strong passion for DevOps. Renowned for my punctuality and ability to excel under pressure, I thrive in collaborative team environments. I am deeply interested in acquiring new technologies and possess a quick learning ability, enabling me to swiftly adapt to industry dynamics. My objective is to leverage my technical skills and enthusiasm for continuous improvement to make impactful contributions, promoting innovation and operational efficiency.
+As a final-year Electronics and Communication Engineering student at Bannari Amman Institute of Technology, I am highly motivated by the opportunities within the fields of cloud engineering and DevOps. My passion for technology and innovation drives me to continually expand my knowledge and skill set, focusing on the essential tools and platforms in the industry. I have practical experience working with AWS Cloud and various DevOps tools, including Terraform for infrastructure as code, Ansible for automation, Docker for containerization, and Git/GitHub for version control. Additionally, my proficiency in Linux provides a strong foundation for systems management and deployment tasks. I am enthusiastic about leveraging my technical expertise to enhance system automation, streamline development pipelines, and build efficient, scalable cloud solutions. Eager to join a forward-thinking team, I look forward to contributing meaningfully and growing in this dynamic domain.
 
 
 
