@@ -7,7 +7,11 @@
 - 📫 Feel Free to reach me: **Kishore.kalaiselvan1@gmail.com**
 
 ## 🙋‍♂️ About Me:
-As a final-year Electronics and Communication Engineering student at Bannari Amman Institute of Technology, I am highly motivated by the opportunities within the fields of cloud engineering and DevOps. My passion for technology and innovation drives me to continually expand my knowledge and skill set, focusing on the essential tools and platforms in the industry. I have practical experience working with AWS Cloud and various DevOps tools, including Terraform for infrastructure as code, Ansible for automation, Docker for containerization, and Git/GitHub for version control. Additionally, my proficiency in Linux provides a strong foundation for systems management and deployment tasks. I am enthusiastic about leveraging my technical expertise to enhance system automation, streamline development pipelines, and build efficient, scalable cloud solutions. Eager to join a forward-thinking team, I look forward to contributing meaningfully and growing in this dynamic domain.
+Currently working at Cognizant in the Storage and Backup domain, with a strong passion for Cloud Engineering, DevOps, and DevSecOps. My current role involves working with enterprise technologies such as Veritas NetBackup, Cohesity, and HPE Storage, gaining experience in data protection, backup and recovery, and infrastructure operations.
+
+My primary interests lie in building resilient, automated, and secure infrastructure using modern cloud technologies and DevOps practices. I have hands-on experience with AWS Cloud, Terraform for Infrastructure as Code, Ansible for automation, Docker for containerization, Kubernetes for orchestration, and Git/GitHub for version control. My knowledge of Linux provides a strong foundation for system administration, troubleshooting, and deployment automation.
+
+I am passionate about automating repetitive tasks, streamlining CI/CD pipelines, and building scalable, reliable cloud solutions. Driven by continuous learning and innovation, I aim to strengthen my expertise in DevOps, DevSecOps, cloud-native technologies, and infrastructure automation.
 
 
 
