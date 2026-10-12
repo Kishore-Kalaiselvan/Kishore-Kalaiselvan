@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on **Devops And Cloud Projects**
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently Exploring **AIOps, AI-driven Operations, and Intelligent Infrastructure Automation**
 - 👯 I’m looking to collaborate on **Devops and Cloud Projects**
 - 💬 Ask me about **Devops**
 - 📫 Feel Free to reach me: **Kishore.kalaiselvan1@gmail.com**
